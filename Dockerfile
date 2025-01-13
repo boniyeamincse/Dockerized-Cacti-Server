@@ -1,5 +1,5 @@
 # Dockerfile for setting up a Cacti server on Ubuntu 20.04
-# Author: Boney Yamin
+# Author: Boney Yeamin
 # Date: 2025-01-13
 # Description: This Dockerfile sets up a Cacti server with Apache, MariaDB, and PHP on Ubuntu 20.04.
 
